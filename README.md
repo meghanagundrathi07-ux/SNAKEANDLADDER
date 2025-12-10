@@ -19,7 +19,7 @@ The game allows a single player to roll a dice and move from position 0 to 100, 
 
 on vs code
 compilation-gcc SNAKESANDLADDER.c
-execution- ./a
+   execution- ./a
 
 4. Sample Output
 
