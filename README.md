@@ -1,4 +1,4 @@
-1. Proj Title:-
+1. Project Title:-
 
 Snake and Ladders Game in C
 
@@ -29,12 +29,12 @@ execution- ./a
 
 5. Important Notes / Assumptions
 
--Dice numbers range from 1 to 6.
--Landing on a snake head moves the player down to a lower position.
--Landing on a ladder start moves the player higher.
--The player must reach exactly 100 to win.
--If the dice value exceeds 100, the player stays in the same place.
--Works on all major C compilers (GCC, MinGW, Turbo C).
+-Dice numbers range from 1 to 6;
+-Landing on a snake head moves the player down to a lower position;
+-Landing on a ladder start moves the player higher;
+-The player must reach exactly 100 to win;
+-If the dice value exceeds 100, the player stays in the same place;
+-Works on all major C compilers (GCC, MinGW, Turbo C);
 -The program uses rand() for dice generation.
 
 
