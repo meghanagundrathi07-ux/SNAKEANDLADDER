@@ -6,7 +6,7 @@
 =====================================================
  Snake and Ladders Game - C Program
  ----------------------------------------------------
- Author: G.Meghana
+ Author: GROUP
  Description:
      A simple Snake and Ladders game implemented in C.
      - The board has 100 squares.
@@ -96,4 +96,5 @@ int main() {
     }
 
     return 0;
+
 }
